@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 ## About me
+I'm a PhD student at the Department of Physics and Astronomy (DIFA) of the University of Bologna. 
+
+I mainly do image analysis tools for microscopy images of cancer multicellular spheroids :microbe: .
+
 
 <!--
 **MariachiaraStellato/MariachiaraStellato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
