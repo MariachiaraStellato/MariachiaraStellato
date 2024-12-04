@@ -3,7 +3,10 @@
 ## About me
 I'm a PhD student at the Department of Physics and Astronomy (DIFA) of the University of Bologna. 
 
-I mainly do image analysis tools for microscopy images of cancer multicellular spheroids :microbe: .
+I mainly do image analysis tools for microscopy images of cancer multicellular spheroids :microbe:.
+
+## Contacts
+You are free to contact me at: 
 
 
 <!--
