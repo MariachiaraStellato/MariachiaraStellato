@@ -6,7 +6,7 @@ I'm a PhD student at the Department of Physics and Astronomy (DIFA) of the Unive
 I mainly do image analysis tools for microscopy images of cancer multicellular spheroids :microbe:.
 
 ## Contacts
-You are free to contact me at: 
+You are free to contact me at: mariachiarastellato@gmail.com
 
 
 <!--
